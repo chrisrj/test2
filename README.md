@@ -1,3 +1,3 @@
 # test2
 
-a test repo for guthub pages
+a test repo for github pages
